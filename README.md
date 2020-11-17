@@ -4,51 +4,51 @@
 -------------
 
 
-* Numpy Packages Overview   <a href="https://drive.google.com/file/d/14swgKRAY4pm8Gea4ZHC-tn1RfvmyROoO/view?usp=sharing">
+* 01.Numpy Packages Overview   <a href="https://drive.google.com/file/d/14swgKRAY4pm8Gea4ZHC-tn1RfvmyROoO/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" />
 </a>
 
-* Numpy Array Creation Attributes    <a href="https://drive.google.com/file/d/1GpbGs13o4dZ3st63E2w3dVBRE0cAAC7R/view?usp=sharing">
+* 02-03.Numpy Array Creation Attributes    <a href="https://drive.google.com/file/d/1GpbGs13o4dZ3st63E2w3dVBRE0cAAC7R/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
-* Numpy Reshape       <a href="https://drive.google.com/file/d/18gnlGV_aTbkbsvQiOmITJ9pJiewLvPwC/view?usp=sharing">
+* 04.Numpy Reshape       <a href="https://drive.google.com/file/d/18gnlGV_aTbkbsvQiOmITJ9pJiewLvPwC/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
-* Numpy Indexing           <a href="https://drive.google.com/file/d/1UWqRdCPtXg8MBylfsfbNvAEc_b3y2EUP/view?usp=sharing">
+* 05.Numpy Indexing           <a href="https://drive.google.com/file/d/1UWqRdCPtXg8MBylfsfbNvAEc_b3y2EUP/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
-* Numpy Search Repeat    <a href="https://drive.google.com/file/d/1PsbllReP1FxLzedW_GQk9RBrki7m028g/view?usp=sharing">
+* 06.Numpy Search Repeat    <a href="https://drive.google.com/file/d/1PsbllReP1FxLzedW_GQk9RBrki7m028g/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
-* Numpy Sort Concatenate    <a href="https://drive.google.com/file/d/11_tb0xINVVtN5YdbYoDCFnrXkO6rhvKr/view?usp=sharing">
+* 07.Numpy Sort Concatenate    <a href="https://drive.google.com/file/d/11_tb0xINVVtN5YdbYoDCFnrXkO6rhvKr/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
-* Numpy Other modules    <a href="https://drive.google.com/file/d/1jlrh3dAESr48e1QiO_2LS3NLK4ZQ-P6q/view?usp=sharing">
+* 08.Numpy Other modules    <a href="https://drive.google.com/file/d/1jlrh3dAESr48e1QiO_2LS3NLK4ZQ-P6q/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
-* Pandas DataFrame Creation    <a href="https://drive.google.com/file/d/1tD-ARqVbqThJ_89vHPz6q0nrNsFH-xpM/view?usp=sharing">
+* 09.Pandas DataFrame Creation    <a href="https://drive.google.com/file/d/1tD-ARqVbqThJ_89vHPz6q0nrNsFH-xpM/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
-* Pandas Attributes dtypes    <a href="https://drive.google.com/file/d/1pe82XnI4RhPI3RKdK9yoI-y0l4655y54/view?usp=sharing">
+* 10.Pandas Attributes dtypes    <a href="https://drive.google.com/file/d/1pe82XnI4RhPI3RKdK9yoI-y0l4655y54/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
-* Pandas Indexing    <a href="https://drive.google.com/file/d/1K4GKXkG-F0r7vDjrFdCfJnKZiBwQ7y_3/view?usp=sharing">
+* 11.Pandas Indexing    <a href="https://drive.google.com/file/d/1K4GKXkG-F0r7vDjrFdCfJnKZiBwQ7y_3/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
-* Pandas Sorting Filtering    <a href="https://drive.google.com/file/d/16gi1uJO-zXq1yEz0n_29KNC2KOtWnNWy/view?usp=sharing">
+* 12.Pandas Sorting Filtering    <a href="https://drive.google.com/file/d/16gi1uJO-zXq1yEz0n_29KNC2KOtWnNWy/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
-* Pandas Concat Merge    <a href="https://drive.google.com/file/d/1vDGR-AMx_fKJUW1HrKEWpVYEtKU9z4qt/view?usp=sharing">
+* 13.Pandas Concat Merge    <a href="https://drive.google.com/file/d/1vDGR-AMx_fKJUW1HrKEWpVYEtKU9z4qt/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
@@ -73,8 +73,7 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
-* 19.Matplotlib Basic  <a href="https://drive.google.com/file/d/1VOwoNVjIsc5tGck5rHZ4AVWfl0pPv0Ys/view?usp=sharing">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+* 19.Matplotlib Basic  <a href="https://drive.google.com/file/d/1VOwoNVjIsc5tGck5rHZ4AVWfl0pPv0Ys/view?usp=sharing">        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
 
 * 20.Matplotlib Object Oriented Interface & Subplots  <a href="https://drive.google.com/file/d/11o8gapWy_aKdWXcnvVmF0H2dJktEViDi/view?usp=sharing">
