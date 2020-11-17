@@ -1,8 +1,7 @@
-# Python Programming
+# Python Data Analysis
 台灣人工智慧學校「*Python* 進階輕鬆學  :Numpy」課程程式碼，本課程之目標在於幫助剛進入 *Python* 程式語言的學習者了解本語言的基本語法架構，課程採線上教學方式進行，教學影片可於[天下創新學院](https://www.leadercampus.com.tw/desktop/course-set/826 "天下創新學院")觀看，課程程式碼依照不同主題放置在不同的資料夾，主題分別有：
 
 -------------
-
 
 * 01.Numpy Packages Overview   <a href="https://drive.google.com/file/d/14swgKRAY4pm8Gea4ZHC-tn1RfvmyROoO/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" />
@@ -111,6 +110,10 @@
 
 # 使用說明
 學習者可從這邊下載到本機電腦以 Jupyter Notebook 進行演練，或者可將程式碼備份到 Google Drive 以 Google Colab 進行演練。
+
+## First
+
+首先將 github 所有內容上傳至自己的 google drive 以下的教學內容預設路徑為, My Drive > Python-Data-Anlysis, 如您擺放位置與此路徑不同時, 內容編號 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 皆須微調路徑。 
 
 ## Jupyter Notebook:
 
