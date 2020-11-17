@@ -72,30 +72,39 @@
 * 18.Matplotlib rcParams  <a href="https://drive.google.com/file/d/1608TJZLy9r5weSywb61TzpkQvj3znQSS/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
+
 * 19.Matplotlib Basic  <a href="https://drive.google.com/file/d/1VOwoNVjIsc5tGck5rHZ4AVWfl0pPv0Ys/view?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
+
 * 20.Matplotlib Object Oriented Interface & Subplots  <a href="https://drive.google.com/file/d/11o8gapWy_aKdWXcnvVmF0H2dJktEViDi/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
+
 * 21.Matplotlib Basic Plots  <a href="https://drive.google.com/file/d/11PmKK2fY3waRTwxZKsXUwACUyRLCby2C/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
+
 * 22.Searborn Basic Plots  <a href="https://drive.google.com/file/d/1icCXgT1rb6fc6ywcBj1P4kDDKE9GWlJ3/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
+
 * 23.Seaborn Advanced Plots  <a href="https://drive.google.com/file/d/1f03a3yMciB63Zd-_7Ea9h7cybiBGevjy/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
+
 * 24.Seaborn FacetGrid  <a href="https://drive.google.com/file/d/1q43mjCmwdcGEGIQ6lQsXcO5Z8-diSp36/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
+
 * 25.EDA Mean Median Mode  <a href="https://drive.google.com/file/d/1yj_vyCSgu3VNO5UPgdOi79WNw3XXAyJu/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
+
 * 26.EDA Tips for Visualization   <a href="https://drive.google.com/file/d/1DtZNIXjQqgVqNz5C-xNLy9R088ih9U6K/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
+
 * 27.Preprocess   <a href="https://drive.google.com/file/d/1cdxqfH6-V2UrGft1ls9YmXU47WRqi5kb/view?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px">
 </a>
