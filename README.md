@@ -109,9 +109,6 @@
 ----------
 
 # 使用說明
-學習者可從這邊下載到本機電腦以 Jupyter Notebook 進行演練，或者可將程式碼備份到 Google Drive 以 Google Colab 進行演練。
-
-## First
 
 首先將 github 所有內容上傳至自己的 google drive 以下的教學內容預設路徑為, My Drive > Python-Data-Anlysis, 如您擺放位置與此路徑不同時, 內容編號 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 皆須微調路徑。 
 
