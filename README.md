@@ -4,7 +4,7 @@
 -------------
 
 
-* 01.Numpy Packages Overview   <a href="https://drive.google.com/file/d/14swgKRAY4pm8Gea4ZHC-tn1RfvmyROoO/view?usp=sharing">
+* 01.Numpy Packages Overview   <a href="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/01.%20Numpy%20Packages%20Overview/Packages_Overview.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="90px" />
 </a>
 
