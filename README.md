@@ -17,7 +17,7 @@
 
     上傳完成後, 並進入此資料夾即可看到如下圖。。
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20finish.PNG" width="200px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20finish.PNG" width="400px" >
 
 3. 如果上傳位置與此不同, 以下課程編號需在程式中進行微調
     編號為: 14, 15, 16, 17, 22, 23, 24, 25, 26, 27
