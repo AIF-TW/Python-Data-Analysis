@@ -6,23 +6,24 @@
 1. Download github
     如下圖所示點選 Code 圖示 -> Download ZIP。   
     
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/how%20to%20download.png" width="90px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/how%20to%20download.png" width="200px" >
 
     下載完成後進行解壓縮。
 
 2. 上傳至自己的 google 雲端硬碟 
     上傳位置為 "我的雲端硬碟" 如下圖所示。。
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20my%20drive.png" width="90px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20my%20drive.png" width="200px" >
 
     上傳完成後, 並進入此資料夾即可看到如下圖。。
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20finish.PNG" width="90px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20finish.PNG" width="200px" >
 
 3. 如果上傳位置與此不同, 以下課程編號需在程式中進行微調
     編號為: 14, 15, 16, 17, 22, 23, 24, 25, 26, 27
     程式修改位置, 如下圖所示。
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/fine-turn%20data%20path.PNG" width="90px" >
+
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/fine-turn%20data%20path.PNG" width="200px" >
 
 
 ## 於 Google Chrome 使用 Colab 進行程式編輯與執行:
@@ -31,12 +32,12 @@
 
 2. 於 Chrome 線上應用程式商店 收尋 Colab 並安裝此擴充功能。
 
-   <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/colab%20tool.PNG" width="90px" >
+   <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/colab%20tool.PNG" width="200px" >
 
 3. 進入資料夾選擇程式(附檔為.ipynb)按右鍵, 選擇開啟工具, 選擇 Google Colaboratory 開啟, 如下圖所示。
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/open%20in%20colab.png" width="90px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/open%20in%20colab.png" width="200px" >
    
 4. 課程編號:  14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 執行這些課程時需要 Google Drive 存取認證, 如下圖所示。
 
-   <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/authorization%20code.PNG" width="90px" >
+   <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/authorization%20code.PNG" width="200px" >
