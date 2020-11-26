@@ -4,13 +4,15 @@
 # 使用說明
 
 1. Download github
+
     如下圖所示點選 Code 圖示 -> Download ZIP。   
     
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/how%20to%20download.png" width="400px" >
 
     下載完成後進行解壓縮。
 
-2. 上傳至自己的 google 雲端硬碟 
+2. 上傳至自己的 google 雲端硬碟
+
     上傳位置為 "我的雲端硬碟" 如下圖所示。。
 
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20my%20drive.png" width="200px" >
@@ -20,13 +22,15 @@
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20finish.PNG" width="400px" >
 
 3. 如果上傳位置與此不同, 以下課程編號需在程式中進行微調
+
     編號為: 14, 15, 16, 17, 22, 23, 24, 25, 26, 27
+    
     程式修改位置, 如下圖所示。
 
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/fine-turn%20data%20path.PNG" width="600px" >
 
 
-## 於 Google Chrome 使用 Colab 進行程式編輯與執行:
+## 使用 Google Chrome 進行程式編輯與執行:
 
 1. 點選進入 [Colab首頁](https://colab.research.google.com/notebooks/intro.ipynb)
 
@@ -38,6 +42,6 @@
 
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/open%20in%20colab.png" width="500px" >
    
-4. 課程編號:  14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 執行這些課程時需要 Google Drive 存取認證, 如下圖所示。
+4. 課程編號:  14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 執行這些課程時需要 Google Drive 存取認證, 進入連結後點選所使用的 Google 帳號, 將會得到一組認證碼, 將其複製貼上於方框中, 如下圖所示。
 
    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/authorization%20code.PNG" width="500px" >
