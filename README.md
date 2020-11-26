@@ -23,7 +23,7 @@
     編號為: 14, 15, 16, 17, 22, 23, 24, 25, 26, 27
     程式修改位置, 如下圖所示。
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/fine-turn%20data%20path.PNG" width="500px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/fine-turn%20data%20path.PNG" width="600px" >
 
 
 ## 於 Google Chrome 使用 Colab 進行程式編輯與執行:
@@ -40,4 +40,4 @@
    
 4. 課程編號:  14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 執行這些課程時需要 Google Drive 存取認證, 如下圖所示。
 
-   <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/authorization%20code.PNG" width="200px" >
+   <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/authorization%20code.PNG" width="400px" >
