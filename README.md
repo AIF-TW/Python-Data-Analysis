@@ -6,7 +6,7 @@
 1. Download github
     如下圖所示點選 Code 圖示 -> Download ZIP。   
     
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/how%20to%20download.png" width="200px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/how%20to%20download.png" width="300px" >
 
     下載完成後進行解壓縮。
 
@@ -23,7 +23,7 @@
     編號為: 14, 15, 16, 17, 22, 23, 24, 25, 26, 27
     程式修改位置, 如下圖所示。
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/fine-turn%20data%20path.PNG" width="200px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/fine-turn%20data%20path.PNG" width="500px" >
 
 
 ## 於 Google Chrome 使用 Colab 進行程式編輯與執行:
