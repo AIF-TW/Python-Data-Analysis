@@ -1,7 +1,11 @@
 # Python Data Analysis
 財團法人人工智慧科技基金會「*Python* 進階輕鬆學」系列的課程程式碼，本程式碼包含 *Numpy*、*Pandas*、*Matplotlib*、*Seaborn*、以及 *探索性資料分析(Exploratory Data Anlysis, 簡稱EDA)*，課程程式碼依照不同主題放置在不同的資料夾中供學習與參考。
+
 此系列課程之目標在於使用上述套件進行資料分析，然而資料分析在機器學習/深度學習領域中扮演不可或缺的腳色。
-系列課程採線上教學方式進行，*Numpy* 教學影片可於[天下創新學院](https://www.leadercampus.com.tw/desktop/course-set/826 "天下創新學院")觀看。
+
+系列課程採線上教學方式進行。
+
+*Numpy* 教學影片可於[天下創新學院](https://www.leadercampus.com.tw/desktop/course-set/826 "天下創新學院")觀看。
 
 # 使用說明
 
@@ -9,7 +13,7 @@
 
     如下圖所示點選 Code 圖示 -> Download ZIP。   
     
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/how%20to%20download.png" width="400px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/how%20to%20download.png" width="600px" >
 
     下載完成後進行解壓縮。
 
@@ -23,7 +27,7 @@
 
     上傳位置為 " Colab Notebooks " 如下圖所示。
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20path.png" width="200px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20path.png" width="400px" >
 
     上傳完成後, 並進入此資料夾即可看到如下圖。。
 
@@ -45,7 +49,7 @@
 
     (3) 按下 "允許" 取得權限
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/choose%20google%20account%20next.png" width="400">
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/choose%20google%20account%20next.png" width="200">
 
     (4) 複製金鑰
 
@@ -53,7 +57,7 @@
 
     (5) 貼上金鑰，按下 "Enter" 鍵
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/past%20key.png" width="400">
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/past%20key.png" width="600">
 
     (6) 成功取得權限
 
