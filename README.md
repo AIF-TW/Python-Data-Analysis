@@ -1,5 +1,7 @@
 # Python Data Analysis
-財團法人人工智慧科技基金會「*Python* 進階輕鬆學 :Numpy」課程程式碼，本課程之目標在於使用 Numpy 進行資料處理，可以快速操作多維陣列。Numpy具有並行化操作的能力，支援高階大量的維度陣列與矩陣運算。另外，Python還有其他有趣好玩的重量級套件（例如Pandas，SciPy，Scikit-learn等），課程採線上教學方式進行，教學影片可於[天下創新學院](https://www.leadercampus.com.tw/desktop/course-set/826 "天下創新學院")觀看，課程程式碼依照不同主題放置在不同的資料夾供學習與參考。
+財團法人人工智慧科技基金會「*Python* 進階輕鬆學」系列的課程程式碼，本程式碼包含 *Numpy*、*Pandas*、*Matplotlib*、*Seaborn*、以及 *探索性資料分析(Exploratory Data Anlysis, 簡稱EDA)*，課程程式碼依照不同主題放置在不同的資料夾中供學習與參考。
+此系列課程之目標在於使用上述套件進行資料分析，然而資料分析在機器學習/深度學習領域中扮演不可或缺的腳色。
+系列課程採線上教學方式進行，*Numpy* 教學影片可於[天下創新學院](https://www.leadercampus.com.tw/desktop/course-set/826 "天下創新學院")觀看。
 
 # 使用說明
 
@@ -11,37 +13,48 @@
 
     下載完成後進行解壓縮。
 
-2. 上傳至自己的 google 雲端硬碟
+2. 點選進入 [Colab首頁](https://colab.research.google.com/notebooks/intro.ipynb)
 
-    上傳位置為 "我的雲端硬碟" 如下圖所示。。
+3. 新增 Jupyter 筆記本
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20my%20drive.png" width="200px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/new%20notbook.png" width="400px">
+
+4. 上傳至自己的 google 雲端硬碟
+
+    上傳位置為 " Colab Notebooks " 如下圖所示。
+
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20path.png" width="200px" >
 
     上傳完成後, 並進入此資料夾即可看到如下圖。。
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20finish.PNG" width="400px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/finished%20upload.png" width="400px" >
 
-3. 如果上傳位置與此不同, 以下課程編號需在程式中進行微調
+5. 開啟方才上傳的程式
 
-    編號為: 14, 15, 16, 17, 22, 23, 24, 25, 26, 27
-    
-    程式修改位置, 如下圖所示。
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/open%20in%20colab.png" width="400px">
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/fine-turn%20data%20path.PNG" width="600px" >
+6. 課程編號:  14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 執行這些課程時需要 Google Drive 存取認證, 進入連結後點選所使用的 Google 帳號, 將會得到一組認證碼, 將其複製貼上於方框中, 詳細步驟如下所示。
 
+    (1) 按下執行
 
-## 使用 Google Chrome 進行程式編輯與執行:
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/authorization%20code.PNG" width="500px" >
 
-1. 點選進入 [Colab首頁](https://colab.research.google.com/notebooks/intro.ipynb)
+    (2) 按下連結並登入 Google 帳號進行進行認證
 
-2. 於 Chrome 線上應用程式商店 收尋 Colab 並安裝此擴充功能。
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/choose%20google%20account.png" width="400px">
 
-   <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/colab%20tool.PNG" width="500px" >
+    (3) 按下 "允許" 取得權限
 
-3. 進入資料夾選擇程式(附檔為.ipynb)按右鍵, 選擇開啟工具, 選擇 Google Colaboratory 開啟, 如下圖所示。
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/choose%20google%20account%20next.png" width="400">
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/open%20in%20colab.png" width="500px" >
-   
-4. 課程編號:  14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 執行這些課程時需要 Google Drive 存取認證, 進入連結後點選所使用的 Google 帳號, 將會得到一組認證碼, 將其複製貼上於方框中, 如下圖所示。
+    (4) 複製金鑰
 
-   <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/authorization%20code.PNG" width="500px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/choose%20google%20account%20copy%20key.png" width="400">
+
+    (5) 貼上金鑰，按下 "Enter" 鍵
+
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/past%20key.png" width="400">
+
+    (6) 成功取得權限
+
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/get%20key%20sucess.png" width="400">
