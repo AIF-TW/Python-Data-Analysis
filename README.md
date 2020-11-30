@@ -13,17 +13,17 @@
 
     如下圖所示點選 Code 圖示 -> Download ZIP。   
     
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/how%20to%20download.png" width="600px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/how%20to%20download.png" width="800px" >
 
     下載完成後進行解壓縮。
 
 2. 點選進入 [Colab首頁](https://colab.research.google.com/notebooks/intro.ipynb)
 
-3. 新增 Jupyter 筆記本
+    新增 Jupyter 筆記本
 
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/new%20notbook.png" width="400px">
 
-4. 上傳至自己的 google 雲端硬碟
+3. 上傳至自己的 google 雲端硬碟
 
     (1) 上傳位置為 " Colab Notebooks " 如下圖所示。
 
@@ -33,11 +33,11 @@
 
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/finished%20upload.png" width="400px" >
 
-5. 開啟方才上傳的程式
+4. 開啟方才上傳的程式
 
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/open%20in%20colab.png" width="400px">
 
-6. 課程編號:  14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 執行這些課程時需要 Google Drive 存取認證, 進入連結後點選所使用的 Google 帳號, 將會得到一組認證碼, 將其複製貼上於方框中, 詳細步驟如下所示。
+5. 課程編號:  14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 執行這些課程時需要 Google Drive 存取認證, 進入連結後點選所使用的 Google 帳號, 將會得到一組認證碼, 將其複製貼上於方框中, 詳細步驟如下所示。
 
     (1) 按下執行
 
