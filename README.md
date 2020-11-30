@@ -3,7 +3,7 @@
 
 此系列課程之目標在於使用上述套件進行資料分析，然而資料分析在機器學習/深度學習領域中扮演不可或缺的腳色。
 
-系列課程採線上教學方式進行。
+此系列課程採線上教學方式進行。
 
 *Numpy* 教學影片可於[天下創新學院](https://www.leadercampus.com.tw/desktop/course-set/826 "天下創新學院")觀看。
 
@@ -25,11 +25,11 @@
 
 4. 上傳至自己的 google 雲端硬碟
 
-    上傳位置為 " Colab Notebooks " 如下圖所示。
+    (1) 上傳位置為 " Colab Notebooks " 如下圖所示。
 
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20path.png" width="400px" >
 
-    上傳完成後, 並進入此資料夾即可看到如下圖。。
+    (2) 上傳完成後, 並進入此資料夾即可看到如下圖。。
 
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/finished%20upload.png" width="400px" >
 
@@ -49,7 +49,7 @@
 
     (3) 按下 "允許" 取得權限
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/choose%20google%20account%20next.png" width="200">
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/choose%20google%20account%20next.png" width="300">
 
     (4) 複製金鑰
 
