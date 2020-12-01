@@ -1,11 +1,7 @@
 # Python Data Analysis
-財團法人人工智慧科技基金會「*Python* 進階輕鬆學」系列的課程程式碼，本程式碼包含 *Numpy*、*Pandas*、*Matplotlib*、*Seaborn*、以及 *探索性資料分析(Exploratory Data Anlysis, 簡稱EDA)*，課程程式碼依照不同主題放置在不同的資料夾中供學習與參考。
+財團法人人工智慧科技基金會「*Python* 進階輕鬆學」系列的線上課程程式碼，本程式碼包含 *Numpy*、*Pandas*、*Matplotlib*、*Seaborn*、以及 *探索性資料分析(Exploratory Data Anlysis, 簡稱EDA)*，課程程式碼依照不同主題放置在不同的資料夾中供學習與參考。
 
-此系列課程之目標在於使用上述套件進行資料分析，然而資料分析在機器學習/深度學習領域中扮演不可或缺的腳色。
-
-此系列課程採線上教學方式進行。
-
-*Numpy* 教學影片可於[天下創新學院](https://www.leadercampus.com.tw/desktop/course-set/826 "天下創新學院")觀看。
+*Numpy* 教學影片可於[天下創新學院](https://www.leadercampus.com.tw/desktop/course-set/826 "天下創新學院")免費觀看。
 
 # 使用說明
 
@@ -23,7 +19,7 @@
 
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/new%20notbook.png" width="400px">
 
-3. 上傳至自己的 google 雲端硬碟
+3. 上傳方才下載的程式到自己的 google 雲端硬碟
 
     (1) 上傳位置為 " Colab Notebooks " 如下圖所示。
 
