@@ -19,19 +19,19 @@
 
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/new%20notbook.png" width="400px">
 
-3. 上傳方才下載的程式到自己的 google 雲端硬碟
+3. 將解壓縮後的資料夾上傳到自己的 google 雲端硬碟
 
-    (1) 上傳位置為 " Colab Notebooks " 如下圖所示。
+    (1) 上傳位置為 " 我的雲端硬碟 > Colab Notebooks " 如下圖所示。
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20path.png" width="400px" >
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/upload%20path.png" width="600px" >
 
-    (2) 上傳完成後, 並進入此資料夾即可看到如下圖。。
+    (2) 上傳完成後, 並進入此資料夾即可看到如下圖。
 
     <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/finished%20upload.png" width="400px" >
 
-4. 開啟方才上傳的程式
+4. 如需開啟附檔為 " .ipynd ", 對此按右鍵, 選擇開啟工具為 " Google Colaboratory "
 
-    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/open%20in%20colab.png" width="400px">
+    <img src="https://github.com/AIF-TW/Python-Data-Analysis/blob/master/open%20in%20colab.png" width="600px">
 
 5. 課程編號:  14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 執行這些課程時需要 Google Drive 存取認證, 進入連結後點選所使用的 Google 帳號, 將會得到一組認證碼, 將其複製貼上於方框中, 詳細步驟如下所示。
 
