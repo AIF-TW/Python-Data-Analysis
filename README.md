@@ -2,6 +2,7 @@
 財團法人人工智慧科技基金會「*Python* 進階輕鬆學」系列的線上課程程式碼，本程式碼包含 *Numpy*、*Pandas*、*Matplotlib*、*Seaborn*、以及 *探索性資料分析(Exploratory Data Anlysis, 簡稱EDA)*，課程程式碼依照不同主題放置在不同的資料夾中供學習與參考。
 
 *Numpy* 教學影片可於[天下創新學院](https://www.leadercampus.com.tw/desktop/course-set/826 "天下創新學院")免費觀看。
+
 *Pandas* 教學影片可於[天下創新學院](https://www.leadercampus.com.tw/desktop/course-set/837 "天下創新學院")免費觀看。
 
 # 使用說明
